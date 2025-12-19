@@ -99,6 +99,20 @@ This made ESG insights more interpretable from a business perspective.
 - Long-term stock return analysis not included
 - Future work could include dashboards using Power BI or Tableau
 
+## Visual Insights
+
+### ESG Score Distribution
+This chart shows the distribution of ESG scores across companies. Most companies fall into a medium ESG range, indicating average sustainability performance, while very few are extreme ESG leaders or laggards.
+
+![ESG Score Distribution](outputs/esg_score_distribution.png)
+
+---
+
+### Revenue by ESG Risk Category
+This visualization compares revenue across ESG risk groups. Companies with lower ESG risk tend to show higher median revenue and greater scale, supporting the idea that ESG relates more to long-term stability than short-term profits.
+
+![Revenue by ESG Risk Category](outputs/revenue_by_esg_risk.png)
+
 ---
 
 ## Author
